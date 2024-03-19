@@ -1,0 +1,15 @@
+.product .product-item {
+  justify-content: initial;
+}
+.product .left {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.product .product-img {
+  width: 150px;
+  height: 150px;
+  border: 1px solid #002140;
+  margin-right: 10px;
+}
+/*# sourceMappingURL=./index.css.map */
